@@ -3,7 +3,7 @@ def first_print():
 
 def main():
     firts_print()
-
+    print("3rd F")
 
 if __name__ == '__main__':
     main()
