@@ -3,6 +3,7 @@ def first_print():
 
 def main():
     firts_print()
+    print("Fix for 2nd F")
 
 
 if __name__ == '__main__':
